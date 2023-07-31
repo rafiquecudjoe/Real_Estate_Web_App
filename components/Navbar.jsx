@@ -18,7 +18,7 @@ const Navbar = () => {
     <Flex p="2" borderBottom="2px" borderColor="gray.100">
       <Box fontSize="3x1" color="blue.400" fontWeight="bold">
         <Link href="/" paddingLeft="2">
-          Beacon Homes LLC
+          De-Graft n Co
         </Link>
       </Box>
       <Spacer />
